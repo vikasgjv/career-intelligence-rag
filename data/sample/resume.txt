@@ -1,0 +1,17 @@
+Alex Mercer
+
+Skills:
+Python, SQL, Machine Learning, Data Structures and Algorithms.
+
+Projects:
+
+Career Intelligence RAG:
+Building a Retrieval-Augmented Generation system that analyzes resumes
+against job descriptions and provides evidence-based career recommendations.
+
+Network Traffic Classification:
+Developed a machine learning model using Python and Scikit-learn
+to classify network traffic.
+
+Education:
+Bachelor's degree in Computer Science.
