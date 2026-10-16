@@ -1,0 +1,19 @@
+Software Engineer Intern
+
+We are looking for a Software Engineer Intern with experience in:
+
+Python
+SQL
+Machine Learning
+FastAPI
+Docker
+Git and GitHub
+Natural Language Processing
+
+Responsibilities:
+
+Develop machine learning applications using Python.
+Build and integrate REST APIs.
+Work with data processing and SQL databases.
+Develop NLP and AI-powered applications.
+Use Git and GitHub for version control.
